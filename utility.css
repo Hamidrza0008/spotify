@@ -1,0 +1,54 @@
+/* Utility Classes for help */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+.border {
+    border: 2px white solid;
+    margin: 5px;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify {
+    justify-content: center;
+}
+
+.align {
+    align-items: center;
+}
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+.m-right{
+    margin: 16px 0;
+}
+
+.bg-gray {
+    background-color: #121212;
+}
+
+.m-1 {
+    margin: 5px;
+}
+.p-0{
+    padding: 10px;
+}
+.p-1{
+    padding: 25px;
+}
+.rounded {
+    border-radius: 7px;
+}
+
+.invert {
+    filter: invert(1);
+}
